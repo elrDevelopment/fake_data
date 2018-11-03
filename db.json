@@ -35,6 +35,12 @@
       "name": "user-edit",
       "icon": "<svg class=\"material-icon\" viewBox=\"0 0 24 24\"><path d=\"M12 1L3 5v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V5l-9-4zm-2 16l-4-4 1.41-1.41L10 14.17l6.59-6.59L18 9l-8 8z\"/></svg>",
       "header": "Edit or Add System Users"
+    },
+    {
+      "id" : 7,
+      "name": "file-upload",
+      "icon": "<svg class=\"material-icon\" viewBox=\"0 0 24 24\"><path d=\"M9 16h6v-6h4l-7-7-7 7h4zm-4 2h14v2H5z\"/></svg>",
+      "header": "Upload Clinic data Files"
     }
   ]
 }
